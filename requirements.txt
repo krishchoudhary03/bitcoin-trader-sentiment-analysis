@@ -1,0 +1,17 @@
+#Libraries and Functions Used:
+
+pandas>=1.5.0
+numpy>=1.23.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+jupyter
+
+
+
+
+#trader-sentiment-analysis
+-trader_sentiment_analysis.ipynb
+-historical_data.csv
+-fear_greed_index.csv
+-requirements.txt
+-README.md
